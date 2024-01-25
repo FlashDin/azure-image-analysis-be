@@ -1,0 +1,4 @@
+server:
+  port: 8090
+vision-endpoint: "https://xyz.cognitiveservices.azure.com/computervision/imageanalysis:analyze"
+vision-key: "secret-key"
